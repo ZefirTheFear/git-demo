@@ -9,5 +9,5 @@ side by side
 we're marching into destiny
 -------------------------------
 
-feature feature feature
-feature feature feature
+main main main main 
+main main main main 
